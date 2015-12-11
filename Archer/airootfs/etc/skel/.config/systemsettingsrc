@@ -1,0 +1,20 @@
+[DownloadDialog Settings]
+Height 1050=522
+Width 1680=700
+
+[KFileDialog Settings]
+Recent Files[$e]=index.theme,/usr/share/icons/breeze_cursors/index.theme
+Recent URLs[$e]=/usr/share/icons/,/usr/share/icons/breeze_cursors/
+
+[KPropertiesDialog]
+Height 1050=474
+Width 1680=529
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAG6AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Open-with settings]
+CompletionMode=5
+History=yakuake

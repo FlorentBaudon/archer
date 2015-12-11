@@ -1,0 +1,11 @@
+[Favorites]
+FavoriteURLs=/usr/share/applications/systemsettings.desktop
+
+[KRunner]
+loadAll=false
+
+[KRunner][PlasmaRunnerManager]
+pluginWhiteList=places,shell,services,bookmarks,recentdocuments,locations,baloosearch
+
+[RecentlyUsed]
+Applications=org.kde.konsole.desktop

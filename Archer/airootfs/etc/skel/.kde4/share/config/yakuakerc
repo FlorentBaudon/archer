@@ -1,0 +1,24 @@
+[$Version]
+update_info=yakuake.upd:2.9.9-startupnotification
+
+[Appearance]
+BackgroundColor=87,87,87
+Skin=papirus-dark
+SkinInstalledWithKns=true
+Translucency=true
+
+[Colors]
+CurrentPalette=Forty Colors
+
+[Desktop Entry]
+DefaultProfile=Shell.profile
+
+[Dialogs]
+FirstRun=false
+
+[DownloadDialog Settings]
+Height 1050=559
+Width 1680=818
+
+[Favorite Profiles]
+Favorites=

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Yakuake Ethais KDE4</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Rendergraf">Rendergraf</author>
+  <homepage>https://opendesktop.org/content/show.php?content=129282</homepage>
+  <licence>2</licence>
+  <version>0.2</version>
+  <rating>83</rating>
+  <downloads>1975</downloads>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/tabs.skin</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/title/back.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/title/config_down.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/title/quit_up.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/title/quit_over.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/title/.directory</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/title/quit_down.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/title/focus_up.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/title/config_up.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/title/focus_down.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/title/right.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/title/config_over.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/title/focus_over.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/title/left.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/title/</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/.directory</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/icon.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/title.skin</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/tabs/selected_back.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/tabs/plus_down.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/tabs/separator.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/tabs/minus_down.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/tabs/selected_right.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/tabs/.directory</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/tabs/minus_over.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/tabs/minus_up.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/tabs/back_image.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/tabs/plus_over.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/tabs/selected_left.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/tabs/right_corner.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/tabs/plus_up.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/tabs/unselected_back.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/tabs/plus.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/tabs/left_corner.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/tabs/</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//ethais/</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//</installedfile>
+  <id>129282</id>
+  <releasedate>2011-01-12</releasedate>
+  <summary>EN:Theme Ethais to Yakuake, based on the graphic style of Oxygen.&#xd;
+&#xd;
+To install copy this directory to /usr/share/kde4/apps/yakuake/skins/&#xd;
+&#xd;
+You can also install the skin via the settings of Yakuake under the Appearance tab. Choose Install skin and then navigate to the .tar.gz.&#xd;
+&#xd;
+ES: Tema Ethais para Yakuake, basado en el estilo gráfico de Oxygen.&#xd;
+&#xd;
+Para instalar copie este directorio a /usr/share/kde4/apps/yakuake/skins/&#xd;
+&#xd;
+También puede instalar el tema a través de la configuración de Yakuake en la pestaña Apariencia. Elige el tema instalar y, a continuación vaya al archivo. tar.gz &#xd;
+&#xd;
+Visit: http://www.rendergraf.org&#xd;
+http://yakuake.kde.org/&#xd;
+http://kde-apps.org/content/show.php?content=29153</summary>
+  <changelog></changelog>
+  <preview>https://openDesktop.org/CONTENT/content-m1/m129282-1.png</preview>
+  <previewBig>https://openDesktop.org/CONTENT/content-pre1/129282-1.png</previewBig>
+  <payload>https://opendesktop.org/CONTENT/content-files/129282-ethais.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>SteampunK Yakuake Skin</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Paladin-MMX">Paladin-MMX</author>
+  <homepage>https://opendesktop.org/content/show.php?content=158529</homepage>
+  <licence>11</licence>
+  <version></version>
+  <rating>61</rating>
+  <downloads>796</downloads>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/tabs.skin</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/title/back.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/title/config_down.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/title/quit_up.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/title/quit_over.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/title/quit_down.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/title/focus_up.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/title/focus_down.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/title/config_up.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/title/right.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/title/config_over.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/title/left.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/title/focus_over.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/title/</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/icon.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/title.skin</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/tabs/selected_back.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/tabs/plus_down.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/tabs/separator.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/tabs/minus_down.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/tabs/selected_right.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/tabs/minus_over.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/tabs/back_image.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/tabs/minus_up.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/tabs/selected_left.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/tabs/plus_over.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/tabs/right_corner.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/tabs/plus_up.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/tabs/unselected_back.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/tabs/left_corner.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/tabs/plus.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/tabs/</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//SteampunK/</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//</installedfile>
+  <id>158529</id>
+  <releasedate>2013-05-17</releasedate>
+  <summary>This item is a part of Steam-Powered Linux KDE theme set.&#xd;
+&#xd;
+The idea is to apply steampunk style to every themeable part of KDE-based distro. Any constructive feedback is highly appreciated. I will try to implement your propositions/fix bugs once I have spare time.&#xd;
+&#xd;
+Parts of this set currently available:&#xd;
+Plymouth:http://kde-look.org/content/show.php/SteampunK+Plymouth+Theme?content=146030&#xd;
+KDM: http://kde-look.org/content/show.php?content=142139&#xd;
+KSplash: http://kde-look.org/content/show.php?content=142138&#xd;
+QtCurve: http://kde-look.org/content/show.php?content=148276&#xd;
+Dark color scheme: http://kde-look.org/content/show.php/SteampunK+Color+Scheme?content=148277&#xd;
+Light color scheme: http://kde-look.org/content/show.php/SteampunK+Light+Color+Scheme?content=155868&#xd;
+Wallpapers: http://kde-look.org/content/show.php/Steampunk+Wallpapers?content=149320&#xd;
+Plasma Desktop theme: http://kde-look.org/content/show.php?content=157926&#xd;
+Yakuake theme: http://kde-look.org/content/show.php?content=158529</summary>
+  <changelog></changelog>
+  <preview>https://openDesktop.org/CONTENT/content-m1/m158529-1.png</preview>
+  <previewBig>https://openDesktop.org/CONTENT/content-pre1/158529-1.jpg</previewBig>
+  <payload>https://opendesktop.org/CONTENT/content-files/158529-SteampunK.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Plasma: Oxygen - Panel</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=hellblade">hellblade</author>
+  <homepage>https://opendesktop.org/content/show.php?content=92457</homepage>
+  <licence>2</licence>
+  <version>1.4</version>
+  <rating>87</rating>
+  <downloads>7332</downloads>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/tabs.skin</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/title/back.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/title/config_down.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/title/quit_up.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/title/path2385.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/title/quit_over.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/title/quit_down.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/title/focus_up.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/title/focus_down.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/title/config_up.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/title/config_over.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/title/right.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/title/focus_over.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/title/left.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/title/</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/icon.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/title.skin</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/tabs/selected_back.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/tabs/rect3010.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/tabs/separator.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/tabs/plus_down.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/tabs/lock.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/tabs/selected_right.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/tabs/minus_down.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/tabs/minus_over.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/tabs/back_image.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/tabs/minus_up.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/tabs/selected_left.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/tabs/plus_over.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/tabs/right_corner.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/tabs/plus_up.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/tabs/unselected_back.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/tabs/left_corner.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/tabs/</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//plasma-oxygen-panel/</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//</installedfile>
+  <id>92457</id>
+  <releasedate>2010-11-25</releasedate>
+  <summary>A theme for Yakuake 2.9 with great support for transparency.&#xd;
+&#xd;
+As the title says it's made to look like the panels from the default KDE 4.1 plasma theme.&#xd;
+&#xd;
+All I did was create a plasma panel, grab some screenshots with red background and then gimp everything. I edited and segmented the screenshots according to the default Yakuake theme.&#xd;
+&#xd;
+Enjoy and let me know if you find any problem.&#xd;
+&#xd;
+&#xd;
+Install&#xd;
+Download the skin archive from this page.&#xd;
+Open Yakuake configuration window and go to Appearance tab.&#xd;
+Click on Install Skin and browse to where you downloaded it.&#xd;
+Select it from the list of available skins and apply.&#xd;
+&#xd;
+Enable Transparency&#xd;
+* Your Window Manager (kwin/compiz) must support your hardware and have Desktop Effects enabled. *&#xd;
+For Yakuake skin:&#xd;
+Open Yakuake configuration window and go to Appearance tab.&#xd;
+Enable &amp;quot;Use translucent background if possible&amp;quot; and apply.&#xd;
+For main window (actual console) background:&#xd;
+Right click on console and select &amp;quot;Edit Current Profile...&amp;quot;, and go to Appearance tab.&#xd;
+Click on &amp;quot;Edit&amp;quot; button and use the &amp;quot;Background Transparency&amp;quot; slider.&#xd;
+&#xd;
+Change Background Color&#xd;
+* Custom background color is only available without transparency. *&#xd;
+Open Yakuake configuration window and go to Appearance tab.&#xd;
+Click on background color button and select your preffered tint.&#xd;
+Make sure &amp;quot;Use translucent background if possible&amp;quot; is disabled.&#xd;
+Apply and enjoy.&#xd;
+&#xd;
+&#xd;
+To open Yakuake configuration window: Click &amp;quot;Open Menu&amp;quot; button (the one between &amp;quot;Keep window open...&amp;quot; and &amp;quot;Close&amp;quot;), then &amp;quot;Configure Yakuake&amp;quot;.</summary>
+  <changelog></changelog>
+  <preview>https://openDesktop.org/CONTENT/content-m1/m92457-1.png</preview>
+  <previewBig>https://openDesktop.org/CONTENT/content-pre1/92457-1.jpg</previewBig>
+  <payload>https://opendesktop.org/CONTENT/content-files/92457-plasma-oxygen-panel.tar.bz2</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Papirus Dark (yakuake skin)</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=jarkamirov">jarkamirov</author>
+  <homepage>https://opendesktop.org/content/show.php?content=170775</homepage>
+  <licence>11</licence>
+  <version>2015.08.17</version>
+  <rating>61</rating>
+  <downloads>141</downloads>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/tabs.skin</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/AUTHORS</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/title/config_down.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/title/back.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/title/quit_up.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/title/quit_over.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/title/quit_down.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/title/focus_up.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/title/config_up.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/title/focus_down.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/title/right.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/title/config_over.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/title/focus_over.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/title/left.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/title/</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/icon.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/title.skin</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/LICENSE</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/tabs/selected_back.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/tabs/plus_down.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/tabs/separator.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/tabs/minus_down.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/tabs/selected_right.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/tabs/minus_over.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/tabs/back_image.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/tabs/minus_up.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/tabs/plus_over.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/tabs/selected_left.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/tabs/right_corner.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/tabs/plus_up.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/tabs/unselected_back.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/tabs/plus.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/tabs/left_corner.png</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/tabs/</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//papirus-dark/</installedfile>
+  <installedfile>/root/.kde4/share/apps/yakuake/kns_skins//</installedfile>
+  <id>170775</id>
+  <releasedate>2015-08-17</releasedate>
+  <summary></summary>
+  <changelog></changelog>
+  <preview>https://openDesktop.org/CONTENT/content-m1/m170775-1.png</preview>
+  <previewBig>https://openDesktop.org/CONTENT/content-pre1/170775-1.png</previewBig>
+  <payload>https://opendesktop.org/CONTENT/content-files/170775-papirus-dark.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
