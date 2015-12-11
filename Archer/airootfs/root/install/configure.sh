@@ -25,4 +25,4 @@ systemctl enable dhcpcd
 pacman-key --init
 pacman-key --populate archlinux
 
-rm -rf /root/install
+rm -rf /root/install /root/install.txt /root/install.sh
