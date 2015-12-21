@@ -21,7 +21,7 @@ syslinux-install_update -iam
 mkinitcpio -p linux
 
 systemctl enable dhcpcd
-systemctl enable sddm.service
+systemctl enable sddm
 
 #initialisation de pacman
 pacman-key --init
@@ -32,3 +32,11 @@ chsh -s /bin/bash root
 rm -rf /root/.zshrc /root/.zcompdump /root/.zsh_history
 
 rm -rf /root/install /root/install.txt /root/install.sh
+
+#create user
+read -p "Username : " name
+read -s -p "Password : " password
+password=$(openssl passwd -1 $password)
+echo $password
+useradd -m $name -p $password
+echo "$name ALL=(ALL) ALL" >> /etc/sudoers

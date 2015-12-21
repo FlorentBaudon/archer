@@ -65,8 +65,6 @@ xorg-server-utils
 xf86-video-vmware
 plasma
 kf5
-sddm
-kcm-sddm
 terminator
 yakuake
 yaourt
@@ -78,4 +76,3 @@ npm
 redis
 zip
 unzip
-refind-efi
