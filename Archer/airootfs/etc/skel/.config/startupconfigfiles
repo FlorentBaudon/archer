@@ -1,26 +1,26 @@
 kcminputrc Mouse cursorTheme 'breeze_cursors'
-!/root/.config/kcminputrc
+/root/.config/kcminputrc
 !/etc/xdg/kcminputrc
 !/root/.local/share/config/kcminputrc
 !/usr/local/share/config/kcminputrc
 !/usr/share/config/kcminputrc
 *
 kcminputrc Mouse cursorSize ''
-!/root/.config/kcminputrc
+/root/.config/kcminputrc
 !/etc/xdg/kcminputrc
 !/root/.local/share/config/kcminputrc
 !/usr/local/share/config/kcminputrc
 !/usr/share/config/kcminputrc
 *
 ksplashrc KSplash Theme Breeze
-!/root/.config/ksplashrc
+/root/.config/ksplashrc
 !/etc/xdg/ksplashrc
 !/root/.local/share/config/ksplashrc
 !/usr/local/share/config/ksplashrc
 !/usr/share/config/ksplashrc
 *
 ksplashrc KSplash Engine KSplashQML
-!/root/.config/ksplashrc
+/root/.config/ksplashrc
 !/etc/xdg/ksplashrc
 !/root/.local/share/config/ksplashrc
 !/usr/local/share/config/ksplashrc

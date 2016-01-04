@@ -1,15 +1,33 @@
 [General]
+confirmLogout=true
+excludeApps=
+loginMode=default
+offerShutdown=true
 screenCount=1
+shutdownType=0
 
 [LegacySession: saved at previous logout]
 count=0
 
 [Session: saved at previous logout]
 clientId1=1010b147cbd7000144897632000000036510001
-count=1
-discardCommand1[$e]=rm,$HOME/.config/session/kwin_1010b147cbd7000144897632000000036510001_1448976683_97063
+clientId2=10a6e46368000145191331800000005390004
+clientId3=10a6e46368000145191331800000005390006
+count=3
+discardCommand1[$e]=rm,$HOME/.config/session/kwin_1010b147cbd7000144897632000000036510001_1451913414_23177
+discardCommand3[$e]=rm,$HOME/.kde4/share/config/session/yakuake_10a6e46368000145191331800000005390006_1451913414_6669
 program1=kwin_x11
-restartCommand1=kwin_x11,-session,1010b147cbd7000144897632000000036510001_1448976683_97063
+program2=pulseaudio
+program3=/usr/bin/yakuake
+restartCommand1=kwin_x11,-session,1010b147cbd7000144897632000000036510001_1451913414_23177
+restartCommand2=
+restartCommand3=/usr/bin/kde4,/usr/bin/yakuake,-session,10a6e46368000145191331800000005390006_1451913414_6669
 restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
 userId1=root
+userId2=root
+userId3=root
 wasWm1=true
+wasWm2=false
+wasWm3=false

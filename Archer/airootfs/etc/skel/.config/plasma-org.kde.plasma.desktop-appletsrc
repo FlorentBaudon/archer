@@ -23,6 +23,19 @@ wallpaperplugin=org.kde.image
 immutability=1
 plugin=org.kde.plasma.kickoff
 
+[Containments][1][Applets][2][Configuration]
+favorites=/usr/share/applications/systemsettings.desktop
+systemApplications=systemsettings.desktop,
+
+[Containments][1][Applets][2][Configuration][ConfigDialog]
+DialogHeight=541
+DialogWidth=720
+
+[Containments][1][Applets][2][Configuration][General]
+favorites=systemsettings.desktop
+icon=/usr/share/icons/rocket.png
+systemApplications=systemsettings.desktop,
+
 [Containments][1][Applets][2][Configuration][Shortcuts]
 global=Alt+F1
 
@@ -75,7 +88,7 @@ plugin=org.kde.plasma.digitalclock
 
 [Containments][1][ConfigDialog]
 DialogHeight=84
-DialogWidth=1680
+DialogWidth=800
 
 [Containments][1][General]
 AppletOrder=2;3;4;5;6
@@ -90,10 +103,10 @@ plugin=org.kde.desktopcontainment
 wallpaperplugin=org.kde.image
 
 [Containments][7][ConfigDialog]
-DialogHeight=540
+DialogHeight=541
 DialogWidth=720
 
 [Containments][7][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/wallpapers/Flat_Earth_Theory.jpg
+Image=file:///usr/share/wallpapers/lagoon_nebula_by_panzi-d32ig4t.png
 height=1050
 width=1680

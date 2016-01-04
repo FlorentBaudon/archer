@@ -1,5 +1,15 @@
+[KFileDialog Settings]
+Recent Files[$e]=space-rocket-512.png,/usr/share/icons/rocket.png,$HOME/Downloads/space-rocket-512.png
+Recent URLs[$e]=/usr/share/icons/,$HOME/Downloads/
+
 [PlasmaViews][Panel 1][Horizontal1280]
-thickness=27
+thickness=61
 
 [PlasmaViews][Panel 1][Horizontal1680]
 thickness=49
+
+[PlasmaViews][Panel 1][Horizontal800]
+thickness=44
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js
