@@ -20,6 +20,7 @@ syslinux-install_update -iam
 
 mkinitcpio -p linux
 
+rm -f /etc/systemd/system/default.target
 systemctl enable dhcpcd
 systemctl enable sddm
 
@@ -39,4 +40,4 @@ read -s -p "Password : " password
 password=$(openssl passwd -1 $password)
 echo $password
 useradd -m $name -p $password
-echo "$name ALL=(ALL) ALL" >> /etc/sudoers
+#echo "$name ALL=(ALL) ALL" >> /etc/sudoers
