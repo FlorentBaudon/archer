@@ -36,8 +36,10 @@ rm -rf /root/install /root/install.txt /root/install.sh
 
 #create user
 read -p "Username : " name
-read -s -p "Password : " password
-password=$(openssl passwd -1 $password)
-echo $password
+read -s -p "Password : " password_clear
+password=$(openssl passwd -1 $password_clear)
 useradd -m $name -p $password
-#echo "$name ALL=(ALL) ALL" >> /etc/sudoers
+echo "$name ALL=(ALL) ALL" >> /etc/sudoers
+
+#change
+echo -e "$password_clear\n$password_clear" | passwd root

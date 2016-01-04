@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Numix
+Description=Numix Theme
+Author=Inti Alonso
+Copyright=(c) 2014, Inti Alonso
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=
+Screenshot=numix.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=intialonso@gmail.com
+Theme-Id=numix
+Theme-API=1.1
