@@ -3,6 +3,12 @@ Icon=media-floppy
 LastNameSeen=0 B Removable Media
 LastSeenMounted=false
 
+[Devices][/org/freedesktop/UDisks2/block_devices/loop0]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=false
+
 [Devices][/org/freedesktop/UDisks2/block_devices/sda1]
 EverMounted=true
 Icon=drive-harddisk

@@ -39,7 +39,7 @@ Image {
         color: "#4C000000"
         Image {
             id: icon
-            source: "images/galaxy.png"
+            source: "images/system.png"
             anchors.centerIn: parent
             sourceSize.height: 128
             sourceSize.width: 128

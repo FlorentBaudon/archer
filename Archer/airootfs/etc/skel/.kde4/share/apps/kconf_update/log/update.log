@@ -56,3 +56,33 @@
 2015-12-01T14:37:49 konsole.upd: Running script 'konsole-2.9.0-colorscheme-bold-key.sh'
 2015-12-01T14:37:49 konsole.upd: Found new update '2.10.0-remove-menuindex-from-profiles'
 2015-12-01T14:37:49 konsole.upd: Running script 'konsole-2.10.0-remove-menuindex-from-profiles.sh'
+2015-12-21T19:19:47 Checking update-file '/usr/share/apps/kconf_update/yakuake.upd' for new updates
+2015-12-21T19:19:47 Checking update-file '/usr/share/apps/kconf_update/kio_help.upd' for new updates
+2015-12-21T19:19:47 Checking update-file '/usr/share/apps/kconf_update/disable_kmix.upd' for new updates
+2015-12-21T19:19:47 disable_kmix.upd: Found new update 'PlasmaVolume_DisableKMixAutostart'
+2015-12-21T19:19:47 disable_kmix.upd: File 'kmixrc' does not exist or empty, skipping
+2015-12-21T19:19:47 Checking update-file '/usr/share/apps/kconf_update/kioslave.upd' for new updates
+2015-12-21T19:19:47 kioslave.upd: Found new update 'kde2.2/r1'
+2015-12-21T19:19:47 kioslave.upd: Skipping update 'kde2.2/r1'
+2015-12-21T19:19:47 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2015-12-21T19:19:47 Checking update-file '/usr/share/apps/kconf_update/kded.upd' for new updates
+2015-12-21T19:19:47 Checking update-file '/usr/share/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2015-12-21T19:19:47 Checking update-file '/usr/share/apps/kconf_update/drkonqi-rename-config-section.upd' for new updates
+2015-12-21T19:19:47 Checking update-file '/usr/share/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2015-12-21T19:19:47 Checking update-file '/usr/share/apps/kconf_update/devicepreference.upd' for new updates
+2015-12-21T19:19:47 Checking update-file '/usr/share/apps/kconf_update/kcookiescfg.upd' for new updates
+2015-12-21T19:19:47 Checking update-file '/usr/share/apps/kconf_update/konsole_remove_background_mode.upd' for new updates
+2015-12-21T19:19:47 Checking update-file '/usr/share/apps/kconf_update/kwallet-4.13.upd' for new updates
+2015-12-21T19:19:47 Checking update-file '/usr/share/apps/kconf_update/konsole.upd' for new updates
+2016-01-04T13:32:29 Checking update-file '/usr/share/apps/kconf_update/kio_help.upd' for new updates
+2016-01-04T13:32:29 Checking update-file '/usr/share/apps/kconf_update/kioslave.upd' for new updates
+2016-01-04T13:32:29 kioslave.upd: Found new update 'kde2.2/r1'
+2016-01-04T13:32:29 kioslave.upd: Skipping update 'kde2.2/r1'
+2016-01-04T13:32:29 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2016-01-04T13:32:29 Checking update-file '/usr/share/apps/kconf_update/kded.upd' for new updates
+2016-01-04T13:32:29 Checking update-file '/usr/share/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2016-01-04T13:32:29 Checking update-file '/usr/share/apps/kconf_update/drkonqi-rename-config-section.upd' for new updates
+2016-01-04T13:32:29 Checking update-file '/usr/share/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2016-01-04T13:32:29 Checking update-file '/usr/share/apps/kconf_update/devicepreference.upd' for new updates
+2016-01-04T13:32:29 Checking update-file '/usr/share/apps/kconf_update/kcookiescfg.upd' for new updates
+2016-01-04T13:32:29 Checking update-file '/usr/share/apps/kconf_update/kwallet-4.13.upd' for new updates

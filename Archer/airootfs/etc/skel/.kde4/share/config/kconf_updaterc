@@ -1,61 +1,66 @@
 updateInfoAdded=true
 
 [devicepreference.upd]
-ctime=1448977064
+ctime=1451904103
 done=DevicesMovedToPlatformPlugin,DevicesUIDsChanged
-mtime=1446642375
+mtime=1446697502
+
+[disable_kmix.upd]
+ctime=1450703274
+done=PlasmaVolume_DisableKMixAutostart
+mtime=1450175501
 
 [drkonqi-rename-config-section.upd]
-ctime=1448977064
+ctime=1451904103
 done=kde-4.11
-mtime=1446642375
+mtime=1446697502
 
 [kcookiescfg.upd]
-ctime=1448977059
+ctime=1451904101
 done=kde2.2/b1,kde3.1/cvs,kde4.10/git
-mtime=1446676150
+mtime=1449589770
 
 [kded.upd]
-ctime=1448977059
+ctime=1451904101
 done=kde3.0
-mtime=1446676150
+mtime=1449589770
 
 [kio_help.upd]
-ctime=1448977059
+ctime=1451904101
 done=kde3_2
-mtime=1446676150
+mtime=1449589770
 
 [kioslave.upd]
-ctime=1448977059
+ctime=1451904101
 done=kde2.2/r2,kde2.2/r3
-mtime=1446676150
+mtime=1449589770
 
 [konsole.upd]
-ctime=1448977065
+ctime=1450703269
 done=2.9.0-global-options,2.9.0-colorscheme-bold-key,2.10.0-remove-menuindex-from-profiles
 mtime=1414815422
 
 [konsole_remove_background_mode.upd]
-ctime=1448977065
+ctime=1450703269
 done=2.11.0-remove-background-mode
 mtime=1414815422
 
 [ksslcertificatemanager.upd]
-ctime=1448977059
+ctime=1451904101
 done=kde4.2
-mtime=1446676150
+mtime=1449589770
 
 [kuriikwsfilter.upd]
-ctime=1448977064
+ctime=1451904103
 done=post-kde3.1/cvs,pre-kde4.9
-mtime=1446642375
+mtime=1446697502
 
 [kwallet-4.13.upd]
-ctime=1448977064
+ctime=1451904103
 done=kde4.13
-mtime=1446642375
+mtime=1446697502
 
 [yakuake.upd]
-ctime=1448977065
+ctime=1450703278
 done=2.9.9-startupnotification
 mtime=1350599726

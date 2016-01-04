@@ -19,6 +19,16 @@ location=4
 plugin=org.kde.panel
 wallpaperplugin=org.kde.image
 
+[Containments][1][Applets][14]
+immutability=1
+plugin=org.kde.plasma.icon
+
+[Containments][1][Applets][14][Configuration][General]
+applicationName=Firefox
+genericName=Web Browser
+iconName=firefox
+url=file:///usr/share/applications/firefox.desktop
+
 [Containments][1][Applets][2]
 immutability=1
 plugin=org.kde.plasma.kickoff
@@ -91,7 +101,7 @@ DialogHeight=84
 DialogWidth=800
 
 [Containments][1][General]
-AppletOrder=2;3;4;5;6
+AppletOrder=2;14;3;4;5;6
 
 [Containments][7]
 activityId=f54a4d84-101e-426a-85ae-ed90ece372db
@@ -103,10 +113,10 @@ plugin=org.kde.desktopcontainment
 wallpaperplugin=org.kde.image
 
 [Containments][7][ConfigDialog]
-DialogHeight=541
+DialogHeight=527
 DialogWidth=720
 
 [Containments][7][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/wallpapers/lagoon_nebula_by_panzi-d32ig4t.png
-height=1050
-width=1680
+Image=file:///usr/share/wallpapers/Lagoon_Nebula.png
+height=600
+width=800
